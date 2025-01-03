@@ -26,7 +26,9 @@
                                                               * * *
                                                             * * * *
                                                           * * * * *
-                                                        * * * * * *    */  
+                                                        * * * * * *    
+                                                        Mirrored Right Triangle Star Pattern  
+                                                            */  
                                                                         
                                                                        
                                                                 
