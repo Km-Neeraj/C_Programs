@@ -22,5 +22,6 @@
                                                                           * * *
                                                                           * * * *
                                                                           * * * * * 
-                                                                          * * * * * *    */
+                                                                          * * * * * *    
+                                                                          Right Triangle Star Pattern */
                                            
